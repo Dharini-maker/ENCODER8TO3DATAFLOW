@@ -45,12 +45,19 @@ Figure 02  Encoder 8 * 3
 Developed by: RegisterNumber:24002206
 */
 **8:3 ENCODER**
+
 module encoder(Y,A);
+
 input[0:7]Y;
+
 output[2:0]A;
+
 assign A[2]=(Y[4]|Y[5]|Y[6]|Y[7]);
+
 assign A[1]=(Y[2]|Y[3]|Y[6]|Y[7]);
+
 assign A[0]=(Y[1]|Y[3]|Y[5]|Y[7]);
+
 endmodule
 
 
