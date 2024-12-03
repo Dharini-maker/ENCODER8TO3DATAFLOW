@@ -62,9 +62,12 @@ endmodule
 
 
 **RTL**
+
 ![exp5 logic gate](https://github.com/user-attachments/assets/dd26461b-6711-4cf0-80fe-e672fb0c5fca)
 
 **OUTPUT**
+
+![waveform](https://github.com/user-attachments/assets/f61f7499-ffa0-4c0a-b6ab-f8fd9caa2e22)
 
 
 **RESULTS**
