@@ -8,6 +8,8 @@ To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating 
 
 **THEORY**
 
+ Encoder is a digital circuit that converts information into a coded format for machine processing. This process is known as encoding. Encoders are used in many digital electronics applications, including: data transmission, control and automation systems, communication, and signal processing.
+
 **Encoder 8 To 3**
 
 The 8 to 3 line Encoder is also known as Octal to Binary Encoder. In 8 to 3 line encoder, there is a total of eight inputs, i.e., D0, D1, D2, D3, D4, D5, D6, and D7 and three outputs, i.e., A0, A1, and A2. In 8-input lines, one input-line is set to true at a time to get the respective binary code in the output side. Below are the block diagram and the truth table of the 8 to 3 line encoder.
@@ -42,7 +44,9 @@ Figure 02  Encoder 8 * 3
 
 /* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:24002206
+Developed by:S.Dharini
+
+RegisterNumber:24002206
 */
 **8:3 ENCODER**
 
